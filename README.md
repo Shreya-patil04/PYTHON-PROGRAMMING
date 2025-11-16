@@ -1,9 +1,4 @@
-Below is the **complete `.md` file** exactly as it should appear in your **README.md**.
-Copy–paste this directly into your GitHub repository.
 
----
-
-```md
 # Python Programming – Complete Practice Repository
 
 A structured, chapter-wise Python learning and practice repository designed for end-to-end mastery of Python fundamentals and intermediate concepts.  
@@ -162,14 +157,3 @@ This repository is open-source and free to use for learning and academic purpose
 
 ---
 ```
-
----
-
-If you want, I can also create:
-
-* A **premium GitHub profile README**
-* Per-chapter mini README files
-* A banner image for your repo
-* Badges (Python version, status, stars, forks, etc.)
-
-Tell me if you want to upgrade it.
